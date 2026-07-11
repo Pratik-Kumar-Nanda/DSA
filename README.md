@@ -13,6 +13,7 @@
 | [0238-product-of-array-except-self](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0238-product-of-array-except-self) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1732-find-the-highest-altitude](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Pratik-Kumar-Nanda/DSA/tree/master/1929-concatenation-of-array) |
@@ -58,4 +59,9 @@
 | [0162-find-peak-element](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1095-find-in-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
