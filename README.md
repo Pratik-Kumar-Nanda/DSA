@@ -20,6 +20,7 @@
 | [0189-rotate-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0704-binary-search) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pratik-Kumar-Nanda/DSA/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -67,6 +70,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +83,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0704-binary-search) |
@@ -109,4 +114,8 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
