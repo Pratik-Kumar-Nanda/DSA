@@ -36,6 +36,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1552-magnetic-force-between-two-balls) |
 | [1732-find-the-highest-altitude](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Pratik-Kumar-Nanda/DSA/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -107,6 +108,7 @@
 | [1095-find-in-mountain-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1095-find-in-mountain-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1552-magnetic-force-between-two-balls) |
 ## Interactive
 |  |
 | ------- |
@@ -137,4 +139,5 @@
 | [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0645-set-mismatch) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1552-magnetic-force-between-two-balls) |
 <!---LeetCode Topics End-->
